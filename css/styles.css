@@ -228,9 +228,10 @@ img{
 .specificity-item-icon{
     display: flex;
     justify-content: center;
-    max-width: 270px;
+    /* max-width: 270px; */
     margin: 0 auto;
-    padding: 25px 100px;
+    padding-top: 25px;
+    padding-bottom: 25px;
     background-color: #F5F4FA;
     border-radius: 4px;
     margin-bottom: 30px;
